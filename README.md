@@ -1,30 +1,31 @@
- 🍽 Zomato Data Analysis
+
+# 🍽 Zomato Data Analysis
 
 This project analyzes Zomato restaurant data to understand customer preferences and restaurant performance.
 
- 📂 Tools & Setup
+## 📂 Tools & Setup
 - Python / SQL
 - Excel
 - Power BI (optional)
 
- 📄 Dataset
+## 📄 Dataset
 - Restaurants
 - Ratings
 - Locations
 - Cuisine types
 
- 🎯 Business Questions
+## 🎯 Business Questions
 - Which locations have the best ratings?
 - Which cuisines are most popular?
 - Price vs rating relationship?
 
- 💡 Key Insights
+## 💡 Key Insights
 - Certain cuisines dominate customer ratings
 - Location significantly impacts ratings
 
- 📁 Files Included
+## 📁 Files Included
 - Zomato Analysis SQL / Python file
 - Dataset
 
- 🛠 How to Run
+## 🛠 How to Run
 Run SQL/Python scripts to generate insights
