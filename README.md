@@ -4,7 +4,6 @@
 This project analyzes Zomato restaurant data to understand customer preferences and restaurant performance.
 
 ## 📂 Tools & Setup
-- Python / SQL
 - Excel
 - Power BI (optional)
 
@@ -24,7 +23,7 @@ This project analyzes Zomato restaurant data to understand customer preferences 
 - Location significantly impacts ratings
 
 ## 📁 Files Included
-- Zomato Analysis SQL / Python file
+- Zomato Analysis 
 - Dataset
 
 ## 🛠 How to Run
