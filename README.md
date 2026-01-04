@@ -26,5 +26,4 @@ This project analyzes Zomato restaurant data to understand customer preferences 
 - Zomato Analysis 
 - Dataset
 
-## 🛠 How to Run
-Run SQL/Python scripts to generate insights
+
